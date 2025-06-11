@@ -1,4 +1,6 @@
+#Project title:
 # SHELTER (Safe Haven for Every Lady’s Threat Emergency Response)
+a women’s safety app designed to send emergency notifications to pre-designated contacts when a woman feels threatened or in danger. 
 
 ## Overview
 
